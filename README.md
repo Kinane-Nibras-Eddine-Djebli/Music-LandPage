@@ -15,9 +15,8 @@ A responsive landing page built from scratch using HTML5 and CSS3.
 - HTML5
 - CSS3
 
-## Preview
-
-(Add a screenshot here later)
+## Live Demo
+**
 
 ## Author
 
