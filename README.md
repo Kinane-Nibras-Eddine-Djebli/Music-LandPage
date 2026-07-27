@@ -25,3 +25,4 @@ Kinane
 ---
 
 This project was built for learning and portfolio purposes.
+No part of this repository may be copied, modified, redistributed, or used in other projects without the author's prior written permission.
