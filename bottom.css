@@ -1,0 +1,107 @@
+.bottom-txts{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 20px;
+}
+.bottom-header{
+  margin-top: 100px;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
+  font-size: 23px;
+}
+
+.bottom-text{
+  font-family: "DM Sans", sans-serif;
+  color: grey;
+}
+
+.bottom-btn{
+  border-color: #4CAF50;;
+  background-color: white;
+  color: #4CAF50;;
+  font-size: 24px;
+  font-family: 'PT Sans', sans-serif;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
+  font-weight: 600;
+  border-style: solid;
+  border-width: 3px;
+  margin-bottom: 50px;
+}
+
+.bottom-btn:hover{
+  background-color: #4CAF50;
+  color: whitesmoke;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+/*
+==========================================================
+Modern Landing Page
+Built by Kinane
+Copyright © 2026 Kinane
+
+GitHub: @Coffee-sipper
+==========================================================
+*/
+
+.about-section{
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  max-width: 1200px;
+  margin: 100px auto;
+  padding: 40 80px;
+  padding: 40px;                          /* space between edge and content */
+  background-color: #fafafa;              /* light background box */
+  border-radius: 12px;                    /* soft rounded corners */
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+.about-img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.about-text{
+  flex: 1;
+}
+
+.about-header{
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  margin-bottom: 15px;
+}
+
+.about-para{
+  font-family: "DM Sans", sans-serif;
+  color: grey;
+  line-height: 1.6;
+  margin-bottom: 25px;
+}
+
+.about-btn{
+  background: linear-gradient(45deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80);
+  border: none;
+  color: white;
+  font-size: 16px;
+  font-family: 'PT Sans', sans-serif;
+  padding: 12px 25px;
+  font-weight: 600;
+  border-radius: 30px;
+}
+
+.about-btn:hover{
+  opacity: 0.55;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
