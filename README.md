@@ -16,7 +16,7 @@ A responsive landing page built from scratch using HTML5 and CSS3.
 - CSS3
 
 ## Live Demo
-👉 **(https://kinane-nibras-eddine-djebli.github.io/Music-LandPage/)**
+[Previw](https://kinane-nibras-eddine-djebli.github.io/Music-LandPage/)
 
 ## Author
 
